@@ -1,8 +1,8 @@
 ---
 output:
+  slidy_presentation: default
   html_document:
     keep_md: true
-  slidy_presentation: default
   ioslides_presentation: default
   beamer_presentation: default
 ---
@@ -117,7 +117,7 @@ If we have to tax consumption, which of the followings should we tax in order to
 ![](figures/steel_eg.png){height=750px}
 
 ##
-![](figures/brookings_tariff.png){height=750px}
+![](figures/brookings_tariff.png){height=450px}
 
 ## Two remaining questions
 
@@ -139,9 +139,9 @@ Two very different paradigms:
   - 24 weeks for each parent plus 4 weeks for mother before birth
 
 ##
-![](figures/tax_rates.png){height=750px}
+![](figures/tax_rates.png){height=450px}
 ##
-![](figures/childcare_spending.png){height=750px}
+![](figures/childcare_spending.png){height=450px}
 
 ## Arguments for/against higher taxes
 
