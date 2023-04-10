@@ -1,0 +1,16 @@
+---
+output:
+  slidy_presentation: default
+  html_document:
+    keep_md: true
+  ioslides_presentation: default
+  beamer_presentation: default
+---
+  
+## AEB 3103 Principles of Food and Resource Economics	
+### Module 7: The Economics of Taxation
+
+
+
+
+ 
