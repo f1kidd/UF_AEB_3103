@@ -1,10 +1,10 @@
 ---
 output:
-  slidy_presentation: default
+  beamer_presentation: default
   html_document:
     keep_md: true
   ioslides_presentation: default
-  beamer_presentation: default
+  slidy_presentation: default
 ---
   
 ## AEB 3103 Principles of Food and Resource Economics	
@@ -12,10 +12,13 @@ output:
 
 
 ##
-\textcolor{blue}{*In this world nothing can be said to be certain, except death and taxes*} - Benjamin Franklin
+*In this world nothing can be said to be certain, except death and taxes* - Benjamin Franklin
 
 ##
 What is the first word you think about when you think about tax?
+
+## 
+![](figures/american_tax_opinion.jpeg){height=450px}
 
 ## Type of taxes
 
@@ -96,6 +99,18 @@ d) the government, because the tax will cause less of the good to be produced an
 ##
 ![](figures/fig14_7.png){height=450px}
 
+## In-class exercise
+
+The demand curve for apple is P = 10 - 2Q. The supply curve for apple is P = 0.5Q. The government decided to impose a 30% tax on all apples sold in the supermarket, levied on the consumers. Please calculate:
+
+1. The market equilibrium without the apple tax
+2. The market equilibrium with the apple tax
+3. Government's tax revenue
+4. The share of taxes paid by consumers vs. producers
+5. The amount of deadweight loss as a result of the tax
+
+
+
 ## Exercise tax creates distortion
 * Deadweight loss is higher when
   - Demand is more elastic
@@ -112,6 +127,7 @@ If we have to tax consumption, which of the followings should we tax in order to
 * Apple Computer
 * Cigarette
 * Salt
+* Green House Gas Emission
 
 ##
 ![](figures/steel_eg.png){height=750px}
@@ -140,6 +156,7 @@ Two very different paradigms:
 
 ##
 ![](figures/tax_rates.png){height=450px}
+
 ##
 ![](figures/childcare_spending.png){height=450px}
 
@@ -168,6 +185,31 @@ In some instances, we may want tax to achieve specific goals - in those cases, t
 * Discourage carbon emission
   - Pigovian tax: correcting externality-generated distortion
 * Discourage cigarette consumption
+
+## 
+![](figures/anglo_fever.png){height=450px}
+
+## 
+* Mortgage interest for up to $750,000 is tax deductable
+  - If you buy a $750,000 property at today's rate, your annual interest payment is [here](https://www.calculator.net/loan-calculator.html?cloanamount=750%2C000&cloanterm=30&cloantermmonth=0&cinterestrate=6&ccompound=monthly&cpayback=month&x=Calculate&type=1#amortized-result)
+  - Standard deduction is at $25,000 (married file jointly)
+  - Annual tax savings at 22% marginal rate: $4840 + additional deductions
+- Total cost of the program: $70 billion
+
+## What does the mortgage deduction program incentivize?
+
+
+## A note on externality and Pigovian tax
+
+* With the presence of externality, market equilibrium will NOT be efficient
+  - The ultimate cause of environmental problems
+  - AEB 2451 / AEB 3450 specifically deal with this problem
+* One of the ways to address it is to use Pigovian taxes
+
+## Deadweight loss with externality
+
+## Pigovian tax corrects externality
+
 
 
 

@@ -1,9 +1,9 @@
 ---
 output:
-  beamer_presentation: default
+  slidy_presentation: default
   html_document: default
   ioslides_presentation: default
-  slidy_presentation: default
+  beamer_presentation: default
 ---
   
 ## AEB 3103 Principles of Food and Resource Economics	
