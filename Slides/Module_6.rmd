@@ -12,7 +12,7 @@ output:
 
 
 ##
-*In this world nothing can be said to be certain, except death and taxes* - Benjamin Franklin
+\textcolor{blue}{*In this world nothing can be said to be certain, except death and taxes*} - Benjamin Franklin
 
 ##
 What is the first word you think about when you think about tax?
